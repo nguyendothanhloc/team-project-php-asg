@@ -1,0 +1,8 @@
+/config/config.local.php
+/config/database.json
+/runtime/
+/.env
+/*.sql
+/*.pem
+/*.log
+/*.zip
